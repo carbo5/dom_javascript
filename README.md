@@ -1,2 +1,2 @@
-# dom_javascript
-Exercice de manipulation du DOM Javascript
+# dom-javascript
+Manipuler le DOM en Javascript
